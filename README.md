@@ -22,3 +22,7 @@ Hide your texts in images !
 
 Some image formats do not work well (for compression reasons), this script works well if the output is stored as a *.png, *.bmp or *.ppm (those have been tested). The *.jpg format seems not to work.
 
+## License
+
+HideIt is distributed under the [MIT License](https://opensource.org/licenses/MIT).
+
